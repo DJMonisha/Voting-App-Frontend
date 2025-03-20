@@ -1,4 +1,4 @@
-const socket = io('https://voting-app-server-8o1z.onrender.com');
+const socket = io('https://voting-app-backend-1-hmuk.onrender.com');
 
 const progressBoxes = document.querySelectorAll('.progress-box');
 const percentTags = document.querySelectorAll('.percent-tag');
